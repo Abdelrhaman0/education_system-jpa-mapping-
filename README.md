@@ -31,10 +31,10 @@ The goal is to show how JPA can model complex relationships between domain objec
 
 * **Java**
 * **Java Persistence API (JPA)**
-* **Hibernate** (ORM implementation, if used)
+* **Hibernate** (ORM implementation)
 * **Maven**
-* **MySQL** (or other relational DB)
-* **IDE**: IntelliJ / Eclipse
+* **MySQL** 
+* **IDE**: IntelliJ 
 
 ---
 
