@@ -1,7 +1,7 @@
 
 # 📘 Education System (JPA Mapping)
 
-A Java backend application that demonstrates effective **Java Persistence API (JPA)** usage with relational mappings for an educational domain. The project highlights how entities (e.g., students, courses, teachers) are mapped to database tables using JPA annotations, enabling clean data persistence and retrieval. ([GitHub][1])
+A Java backend application that demonstrates effective **Java Persistence API (JPA)** usage with relational mappings for an educational domain. The project highlights how entities (e.g., students, courses, teachers) are mapped to database tables using JPA annotations, enabling clean data persistence and retrieval.
 
 ---
 
@@ -14,7 +14,7 @@ This project implements an **education system backend** that explores:
 * Persistent storage of Java objects in a relational database
 * Basic CRUD operations for key entities
 
-The goal is to show how JPA can model complex relationships between domain objects and ensure efficient database persistence. ([GitHub][1])
+The goal is to show how JPA can model complex relationships between domain objects and ensure efficient database persistence.
 
 ---
 
@@ -95,12 +95,12 @@ If not using Spring Boot, run via your IDE or the JPA utility class that starts 
 
 ## 📌 Typical JPA Mapping Concepts Included
 
-* **Entity Annotation (@Entity)** – Marks a Java class as a persistent entity. ([GeeksforGeeks][2])
+* **Entity Annotation (@Entity)** – Marks a Java class as a persistent entity.
 * **Relationships** such as:
 
-  * `@OneToOne` – Single object relationship. ([GeeksforGeeks][3])
-  * `@OneToMany` / `@ManyToOne` – One entity to many related entities. ([GeeksforGeeks][4])
-* **Primary Key Mapping** with `@Id` and generated values. ([GeeksforGeeks][2])
+  * `@OneToOne` – Single object relationship. 
+  * `@OneToMany` / `@ManyToOne` – One entity to many related entities.
+* **Primary Key Mapping** with `@Id` and generated values.
 
 ---
 
